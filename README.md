@@ -5,10 +5,10 @@
 
 ## Instalação
 
-Para instalar a `KafkaLibrary`, simplesmente execute:
+Para instalar a `KafkaRobotLibrary==0.1.0`, simplesmente execute:
 
 ```bash
-pip install KafkaLibrary
+pip install KafkaRobotLibrary==0.1.0
 ```
 
 Certifique-se de que a versão do Python e do pip estão atualizadas para evitar quaisquer incompatibilidades.
